@@ -1,16 +1,32 @@
-## Hi there 👋
+# Kayode Ayiloye
 
-<!--
-**Ayiloye/Ayiloye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Builder & Product Founder**  
+Founder, **Kayus Systems**
 
-Here are some ideas to get you started:
+I identify real-world problems and use AI, automation, and software to build practical solutions. I experiment with emerging technologies, build real products, and share what works, what fails, and what I learn along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Practical AI and agent systems
+- Focused software products and product discovery
+- Human-led automation
+- AI-assisted engineering workflows
+
+## What I build
+
+I work across AI systems, practical software, automation, and product experiments. I research a problem before committing to a solution, test emerging tools against real work, and keep people in control of consequential decisions.
+
+## Selected public work
+
+- [Personal site](https://github.com/Ayiloye/ayiloye.github.io) — source for my website and public notes.
+
+More public experiments and technical notes will appear as they are ready to share.
+
+## Building philosophy
+
+Solve real problems. Build before claiming expertise. Use AI as leverage, with human judgment. Share lessons that may help someone else build better.
+
+## Connect
+
+- [Website](https://ayiloye.github.io)
+- [GitHub](https://github.com/Ayiloye)
